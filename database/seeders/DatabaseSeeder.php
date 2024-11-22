@@ -24,6 +24,7 @@ class DatabaseSeeder extends Seeder
             TaskSeeder::class,
             MissionTypeSeeder::class,
             MissionSeeder::class,
+            SampleAccounts::class,
         ]);
     }
 }
